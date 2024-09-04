@@ -6,3 +6,4 @@ Venueify will then make a similarity check between the customers’
 music taste and pre-existing playlist at the venue. In the final step, Venueify will add the most similar song to the pre-existing playlist at the venue. 
 
 Demo website: https://ayberkmunis255.pythonanywhere.com
+How to use: https://youtu.be/05DCH5Qkg7w
